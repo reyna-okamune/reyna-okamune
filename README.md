@@ -1,6 +1,6 @@
-## About me
+## About Me
 
-### Reyna Aguirre-Okamune
+### Reyna Aguirre-Okamune ٩(ˊᗜˋ*)و
 Aspiring Frontend Developer
 
 - linkedin.com/in/reyna-aguirre-okamune/
@@ -16,5 +16,5 @@ Aspiring Frontend Developer
 ## Projects
 
 - ### Animal Trivia Web App
-    An interactive quiz based on animal trivia from the OTDB API ! 
+    An interactive quiz based on animal trivia from the OTDB API! 
    https://animal-trivia-sigma.vercel.app/
