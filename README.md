@@ -13,10 +13,10 @@ Aspiring Frontend Developer
 - reynaokamune@gmail.com
 
 ## Technical Skills
-- HTML
-- CSS
 - JavaScript
 - React
+- HTML
+- CSS & Tailwind CSS
 
 ## Projects
 
