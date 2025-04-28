@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5zaTRlNHVybzFjMnBzMGQ0bzJ1bTdtMGFpN2U5OHd3bXo1eDlmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nWYGIHdbX4oh7gUVpH/giphy.gif" alt="Sonny Angel Icon" width="100"/>
+  <img src='https://github.com/user-attachments/assets/02a261f9-e7ed-4dac-b191-c2650791defe' alt="Ttitle" />
+
 </div>
 
 ## About Me
