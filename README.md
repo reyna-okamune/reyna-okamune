@@ -29,3 +29,15 @@ Aspiring Frontend Developer
 <div align="center">
   <img src="https://github.com/user-attachments/assets/17806d91-4d3c-4559-9f5f-458b598cdb49" alt="Animal Trivia Homepage" width="500"/>
 </div>
+
+
+- ### 🍇 Sonny Angel Product Cards
+    A product list with an interactive shopping cart!
+  
+    [Live Site](https://sonny-product-cards.vercel.app/)
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4bdded78-22da-4bf8-a666-28de0324a90c" alt="product-cards-demo" width="500"/>
+</div>
+
